@@ -1,38 +1,7 @@
 {
-    "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
-    },
-    "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
-    },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        },
-        {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
-    },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        }
-    ]
-}
+    "name": "Crestian Katlego Makofane",
+    "title": "Software Engineer",
+    "experience": ["Job 1", "Job 2"],
+    "education": ["Degree 1", "Degree 2"],
+    "skills": ["Skill 1", "Skill 2"]
+  }
