@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: darkkhaki;
+}
+header {
+    text-align: center;
+    background-color: darkkhaki;
+    padding: 20px;
+}
+main {
+    padding: 20px;
+}
+section {
+    margin-bottom: 20px;
+}
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    header {
+        font-size: 1.5em;
+    }
+    section {
+        font-size: 1em;
+    }
+}
